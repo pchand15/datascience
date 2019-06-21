@@ -1,2 +1,3 @@
 # datascience
-This repo is for applied data science and analytics used in various domain.
+This repository is an effort to help people of various domain in their day-to-day operations and researches through applied econometrics, data science concepts and algorithm implementation.
+
