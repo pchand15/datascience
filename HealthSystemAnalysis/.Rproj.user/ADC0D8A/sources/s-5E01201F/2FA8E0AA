@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562795071807.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2FA8E0AA",
+    "lastKnownWriteTime" : 1562463670,
+    "last_content_update" : 1562463670,
+    "path" : "~/IndianSocietyStudies/DemoGraphicStudies2011.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "24,47",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

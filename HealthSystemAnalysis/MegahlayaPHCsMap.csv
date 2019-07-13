@@ -1,0 +1,634 @@
+"District.Name","Subdistrict.Name","Facility.Name","Latitude","Longitude","newDist"
+"East Khasi Hills","Shella Bholaganj Block","Ichamati CHC",25.16863611,91.69027778,4
+"West Jaintia Hills","Amlarem Block","Nongtalang CHC",25.21,92.06,9
+"South West Khasi Hills","Ranikor Block","Ranikor CHC",25.21,91.24,8
+"West Garo Hills","Dalu Block","Dalu CHC",25.24,90.2,7
+"South West Garo Hills","Zikzak Block","Mahendraganj CHC",25.29835278,89.86388889,11
+"East Khasi Hills","Pynursla Block","Pynursla CHC",25.31,91.89,4
+"South Garo Hills","Chokpot Block","Chokpot CHC",25.35,90.42,7
+"East Jaintia Hills","Saipung Block","Sutnga CHC",25.35,92.12,9
+"East Khasi Hills","Shella Bholaganj Block","Sohra CHC",25.36,91.72,4
+"South West Khasi Hills","Mawkyrwat Block","Mawkyrwat CHC",25.36,91.49,4
+"East Jaintia Hills","Khliehriat Block","Khliehriat CHC",25.37,92.42,9
+"South West Garo Hills","Betasing Block","Ampati CHC",25.47,89.92,11
+"East Khasi Hills","Mylliem Block","Mawiong CHC",25.5,91.84,4
+"East Khasi Hills","Mawphlang Block","Sohiong CHC",25.50972222,91.71722222,4
+"West Jaintia Hills","Laskein Block","Laskein CHC",25.51605833,92.41141389,9
+"West Jaintia Hills","Thadlaskein Block","Ummulong CHC",25.53,92.13,9
+"West Garo Hills","Dalu Block","Allagre CHC",25.59,90.23,2
+"East Khasi Hills","Mawsynram Block","Mawsynram CHC",25.59,91.49,8
+"West Khasi Hills","Mawshynrut Block","Riangdo CHC",25.67,91.06,6
+"West Khasi Hills","Mairang Block","Nongkhlaw CHC",25.68709444,91.63777778,3
+"West Garo Hills","Selsella Block","Selsella CHC",25.69,90.02,2
+"West Garo Hills","Dadenggiri Block","Dadenggre CHC",25.7,90.2,2
+"Ri Bhoi","Umsning Block","Bhoirymbong CHC",25.70835833,92.02166667,3
+"Ri Bhoi","Umsning Block","Umsning CHC",25.74,91.88,3
+"North Garo Hills","Resubelpara Block","Resubelpara CHC",25.84,90.49,1
+"East Garo Hills","Dambo Rongjeng Block","Rongjeng CHC",25.86,90.98,6
+"West Garo Hills","Selsella Block","Phulbari CHC",25.88835278,90.03694444,5
+"Ri Bhoi","Jirang Block","Patharkhmah CHC",25.9,91.61,3
+"South Garo Hills","Baghmara Block","Baghmara Civil Hospital",25.19869444,90.63083333,10
+"East Khasi Hills","Urban Block","Military Hospital",25.33,91.52,4
+"East Khasi Hills","Urban Block","NEIGRIHMS",25.35,91.56,4
+"West Jaintia Hills","Urban Block","Jowai Civil Hospital",25.46783333,92.26083333,9
+"West Garo Hills","Tura Urban Block","Tura Maternity and Child Hospital",25.5,90.22,7
+"West Khasi Hills","Nongstoin Block","Nongstoin DH",25.51,91.29,8
+"West Garo Hills","Tura Urban Block","Tura Civil Hospital",25.51444722,90.20333333,2
+"East Garo Hills","Urban Block","Williamnagar Civil Hospital",25.52,90.63,10
+"West Khasi Hills","Mairang Block","Mairang DH",25.56,91.63,4
+"East Khasi Hills","Urban Block","Ganesh Das Hospital",25.58,91.87,3
+"East Khasi Hills","Urban Block","Shillong Civil Hospital",25.58,91.87,3
+"Ri Bhoi","Umling Block","Nongpoh DH",25.9,91.9,3
+"East Jaintia Hills","Khliehriat Block","Umkiang PHC",25.06222222,92.38444444,9
+"East Khasi Hills","Mawsynram Block","Ryngku PHC",25.16747222,91.55833333,4
+"East Jaintia Hills","Khliehriat Block","Lumshnong PHC",25.18416667,92.37638889,9
+"South Garo Hills","Rongara Block","Moheskola PHC",25.18558056,90.96666667,10
+"South Garo Hills","Rongara Block","Rongara PHC",25.185806,90.966778,10
+"West Jaintia Hills","Amlarem Block","Dawki PHC",25.19027778,92.02,9
+"East Khasi Hills","Mawsynram Block","Dangar PHC",25.19119444,91.38333333,8
+"East Khasi Hills","Shella Bholaganj Block","Shella PHC",25.19473889,91.63666667,4
+"East Khasi Hills","Pynursla Block","Wahsherkhmut  PHC",25.2064,91.86111111,4
+"East Khasi Hills","Shella Bholaganj Block","Sohbar PHC",25.20833611,91.74472222,4
+"East Khasi Hills","Shella Bholaganj Block","Laitkynsew PHC",25.21751389,91.65333333,4
+"East Khasi Hills","Shella Bholaganj Block","Mawlong PHC",25.21806111,91.69416667,4
+"East Jaintia Hills","Khliehriat Block","Bataw PHC",25.22458333,92.24888889,9
+"West Jaintia Hills","Amlarem Block","Pdengshakap PHC",25.23316667,92.14972222,9
+"East Khasi Hills","Pynursla Block","Pongtung PHC",25.24973611,91.94944444,4
+"East Khasi Hills","Pynursla Block","Mawkliaw PHC",25.25,91.81,4
+"South Garo Hills","Gasuapara Block","Sibbari PHC",25.256556,90.506222,7
+"South Garo Hills","Chokpot Block","Silkigre PHC",25.25761111,90.47194444,7
+"East Khasi Hills","Shella Bholaganj Block","Mawsahew PHC",25.26138889,91.64527778,4
+"West Jaintia Hills","Amlarem Block","Padu St Dispy",25.28361111,92.03527778,9
+"South West Khasi Hills","Mawkyrwat Block","Rangthong PHC",25.29,91.26,8
+"West Garo Hills","Dalu Block","Purakhasia PHC",25.29694444,90.00916667,11
+"East Khasi Hills","Laitkroh Block","Khatarshnong Khrang PHC",25.31,91.77,4
+"West Jaintia Hills","Amlarem Block","Jarain PHC",25.32094444,92.13333333,9
+"East Khasi Hills","Laitkroh Block","Laitryngew PHC",25.32927778,91.73361111,4
+"East Jaintia Hills","Saipung Block","Saipung PHC",25.33652778,92.62,9
+"East Jaintia Hills","Khliehriat Block","Rymbai PHC",25.33902778,92.32833333,9
+"West Garo Hills","Dalu Block","Kherapara PHC",25.34390278,90.21583333,7
+"South West Khasi Hills","Mawkyrwat Block","Mawthawpdah PHC",25.35,91.29,8
+"East Khasi Hills","Urban Block","Jaiaw UHC",25.35,91.52,4
+"South West Garo Hills","Zikzak Block","Nogorpara PHC",25.350575,89.84972222,11
+"South Garo Hills","Baghmara Block","Siju PHC",25.35335833,90.65666667,10
+"West Garo Hills","Tura Urban Block","Sampalgre UHC",25.38,90.2,7
+"South West Garo Hills","Zikzak Block","Zikzak PHC",25.3914,89.905,11
+"East Khasi Hills","Mawkynrew Block","Jatah PHC",25.40416667,92.05194444,9
+"East Jaintia Hills","Khliehriat Block","Wapung Pamra PHC",25.40913889,92.31444444,9
+"East Khasi Hills","Laitkroh Block","Swer PHC",25.41,91.8,4
+"South West Garo Hills","Zikzak Block","Salmanpara PHC",25.41416667,89.98777778,11
+"West Khasi Hills","Mawthadraishan Block","Pariong PHC",25.42,91.44,8
+"East Khasi Hills","Urban Block","Nongthymmai UHC",25.42,91.71,4
+"West Khasi Hills","Nongstoin Block","Maweit PHC",25.43,91.07,8
+"West Jaintia Hills","Urban Block","Chutwakhu UHC",25.43,92.19,9
+"East Khasi Hills","Mawkynrew Block","Mawkynrew  PHC",25.44055556,91.99111111,3
+"South West Garo Hills","Zikzak Block","Kalaichar PHC",25.44388889,89.84138889,11
+"East Khasi Hills","Laitkroh Block","Laitlyngkot PHC",25.44501944,91.84194444,4
+"West Khasi Hills","Mairang Block","Dongki Ingding PHC",25.45,91.4,8
+"West Jaintia Hills","Urban Block","Ladthalaboh UHC",25.45,92.19,9
+"South Garo Hills","Baghmara Block","Nangalbibra PHC",25.45308056,90.71361111,10
+"East Khasi Hills","Mawphlang Block","Nongspung PHC",25.45619444,91.60861111,4
+"East Khasi Hills","Mawkynrew Block","Jongksha PHC",25.47,91.97,3
+"South West Garo Hills","Betasing Block","Mellim PHC",25.47419167,90.08861111,11
+"West Jaintia Hills","Laskein Block","Shangpung PHC",25.47513889,92.35388889,9
+"West Jaintia Hills","Thadlaskein Block","Khliehtyrshi PHC",25.47605556,92.17638889,9
+"West Garo Hills","Tura Urban Block","Matchakolgre UHC",25.5,90.19,2
+"East Khasi Hills","Mawryngkneng Block","Smit PHC",25.50391667,91.90194444,3
+"East Garo Hills","Samanda Block","Samanda PHC",25.51,90.5,7
+"West Jaintia Hills","Laskein Block","Iooksi PHC",25.51083333,92.58111111,9
+"South West Garo Hills","Betasing Block","Betasing PHC",25.51666667,89.96055556,11
+"West Jaintia Hills","Thadlaskein Block","Nangbah PHC",25.51833333,92.24555556,9
+"West Khasi Hills","Mawthadraishan Block","Markasa PHC",25.52,91.44,8
+"West Khasi Hills","Urban Block","Nongstoin UHC",25.52,91.26,8
+"South West Garo Hills","Betasing Block","Rangsakona PHC",25.5275,90.03361111,2
+"West Khasi Hills","Mawshynrut Block","Shallang PHC",25.52891111,90.8575,10
+"East Khasi Hills","Mylliem Block","Pomlum PHC",25.52933333,91.81277778,3
+"West Khasi Hills","Mawthadraishan Block","Kynshi PHC",25.53,91.53,4
+"East Khasi Hills","Mawphlang Block","Mawphlang PHC",25.53,91.77,4
+"East Garo Hills","Samanda Block","Bansamgre PHC",25.53,90.45,7
+"East Garo Hills","Songsak Block","Dobu PHC",25.53,90.72,10
+"East Khasi Hills","Urban Block","Lower Mawprem UHC",25.54,91.74,4
+"East Khasi Hills","Urban Block","Upper Mawprem UHC",25.54,91.74,4
+"South West Garo Hills","Betasing Block","Belbari PHC",25.54305556,89.89055556,11
+"West Khasi Hills","Mairang Block","Nongthliew PHC",25.55,91.69,4
+"East Khasi Hills","Mawryngkneng Block","Mawryngkneng PHC",25.55,92.05,3
+"East Khasi Hills","Urban Block","Lumparing UHC",25.55,91.88,3
+"West Jaintia Hills","Laskein Block","Mynso PHC",25.55325,92.33083333,9
+"West Jaintia Hills","Laskein Block","Sahsniang PHC",25.55491667,92.51805556,9
+"East Khasi Hills","Urban Block","Laban St. Dispy",25.56,91.87,3
+"East Khasi Hills","Urban Block","Shastri Memorial St.Dispy",25.56,91.85,3
+"East Khasi Hills","Urban Block","Lady Kerr Welfare Centre",25.56,91.88,3
+"Ri Bhoi","Jirang Block","Jirang St. Dispy",25.56,91.34,8
+"East Khasi Hills","Urban Block","Bishnupur UHC",25.56,91.87,3
+"East Khasi Hills","Urban Block","Dongkharmalki UHC",25.56,91.88,3
+"East Khasi Hills","Urban Block","Madanrting UHC",25.56,91.91,3
+"East Khasi Hills","Urban Block","Rynjah St. Dispy",25.57,91.91,3
+"East Khasi Hills","Urban Block","Demseiniong UHC",25.57,91.9,3
+"East Khasi Hills","Urban Block","Umsohsun UHC",25.57,91.87,3
+"West Jaintia Hills","Thadlaskein Block","Nartiang PHC",25.57597222,92.22277778,9
+"South West Garo Hills","Betasing Block","Garobadha PHC",25.579584,90.022217,2
+"West Khasi Hills","Mawthadraishan Block","Myriaw PHC",25.58,91.47,8
+"East Khasi Hills","Urban Block","Pynthorbah UHC",25.58,91.89,3
+"West Garo Hills","Rongram Block","Asananggiri PHC",25.59,90.26,2
+"East Khasi Hills","Urban Block","Nehru Memorial St.Dispy",25.59,91.88,3
+"East Khasi Hills","Urban Block","Mawlai Nongkwar UHC",25.59,91.87,3
+"East Khasi Hills","Urban Block","Mawpat UHC",25.59,91.92,3
+"East Khasi Hills","Mylliem Block","Diengiei PHC",25.59147222,91.79027778,3
+"East Khasi Hills","Mylliem Block","Mawroh PHC",25.597024,91.899018,3
+"East Khasi Hills","Mawryngkneng Block","Diengpasoh PHC",25.59788889,92.03916667,3
+"East Garo Hills","Samanda Block","Rongrengre St. Dispy",25.6,90.6,1
+"West Garo Hills","Rongram Block","Babadam PHC",25.602562,90.125106,2
+"West Jaintia Hills","Laskein Block","Barato PHC",25.60866667,92.44888889,9
+"West Khasi Hills","Mairang Block","Wahrit PHC",25.62,91.55,4
+"West Khasi Hills","Mairang Block","Maroid PHC",25.63,91.62,4
+"West Khasi Hills","Mairang Block","Nongum PHC",25.63,91.48,8
+"West Khasi Hills","Nongstoin Block","Rambrai PHC",25.64,91.34,8
+"West Jaintia Hills","Thadlaskein Block","Namdong PHC",25.65636111,92.31388889,9
+"Ri Bhoi","Umsning Block","Barapani St. Dispy",25.66,91.91,3
+"East Khasi Hills","Mylliem Block","Mawsiat Khnam PHC",25.6653,91.97194444,3
+"West Khasi Hills","Mawshynrut Block","Nonglang PHC",25.67,91.18,8
+"Ri Bhoi","Umsning Block","Kyrdem PHC",25.69363056,92.07194444,3
+"West Khasi Hills","Mairang Block","Kynrud PHC",25.71,91.51,8
+"East Garo Hills","Songsak Block","Rongrong PHC",25.73,90.52,1
+"North Garo Hills","Resubelpara Block","Gabil PHC",25.73,90.84,6
+"North Garo Hills","Resubelpara Block","Rari PHC",25.73,90.84,6
+"Ri Bhoi","Umsning Block","Mawlasnai PHC",25.73472222,92.15027778,3
+"West Garo Hills","Selsella Block","Jeldupara PHC",25.73611389,89.92277778,2
+"East Garo Hills","Songsak Block","Dagal PHC",25.77,90.52,1
+"East Garo Hills","Dambo Rongjeng Block","Mangsang PHC",25.78,90.91,6
+"West Garo Hills","Selsella Block","Bhaitbari PHC",25.79391111,89.9775,2
+"East Garo Hills","Songsak Block","Songsak PHC",25.8,90.68,6
+"Ri Bhoi","Umsning Block","Mawhati PHC",25.81363333,92.07888889,3
+"West Khasi Hills","Mawshynrut Block","Aradonga PHC",25.82,91.15,6
+"Ri Bhoi","Jirang Block","Warmawsaw PHC",25.82835278,91.53055556,3
+"North Garo Hills","Kharkutta Block","Wageasi PHC",25.85,90.79,6
+"North Garo Hills","Kharkutta Block","Adokgre PHC",25.86,90.98,6
+"North Garo Hills","Resubelpara Block","Bajengdoba PHC",25.88,91.49,8
+"Ri Bhoi","Umling Block","Marngar PHC",25.889994,91.931885,3
+"North Garo Hills","Kharkutta Block","Kharkutta PHC",25.91,90.89,6
+"North Garo Hills","Resubelpara Block","Mendipathar PHC",25.91,90.64,1
+"North Garo Hills","Resubelpara Block","Dainadubi PHC",25.91,90.75,6
+"West Garo Hills","Tikrikilla Block","Tikrikilla PHC",25.94,90.22,5
+"West Garo Hills","Gambegre Block","Darengre PHC",25.95,90.32,5
+"West Garo Hills","Tura Urban Block","Dobasipara UHC",25.96,90.23,5
+"Ri Bhoi","Umling Block","Umden PHC",25.96333333,91.99611111,3
+"West Garo Hills","Tikrikilla Block","Pedaldoba PHC",25.98,90.39,1
+"North Garo Hills","Resubelpara Block","Sualmari PHC",25.98,90.47,1
+"Ri Bhoi","Umsning Block","Umtrai PHC",26.00666667,92.13166667,3
+"Ri Bhoi","Umling Block","Byrnihat PHC",26.03695556,91.86611111,3
+"East Jaintia Hills","Khliehriat Block","Ratachera SC",25.03455556,92.44208333,9
+"East Jaintia Hills","Khliehriat Block","Huroi SC",25.09061111,92.26438889,9
+"East Jaintia Hills","Khliehriat Block","Sunapur SC",25.11,92.34,9
+"West Jaintia Hills","Amlarem Block","Pyrsadwar SC",25.149222,92.207583,9
+"East Jaintia Hills","Khliehriat Block","Nathbor SC",25.155719,92.228412,9
+"East Khasi Hills","Mawsynram Block","Sonatola SC",25.16,91.45,4
+"East Khasi Hills","Shella Bholaganj Block","Majai SC",25.16277222,91.74531389,4
+"South Garo Hills","Gasuapara Block","Ramchengga SC",25.167472,90.433389,7
+"West Jaintia Hills","Amlarem Block","Muktapur SC",25.167833,92.127167,9
+"South Garo Hills","Rongara Block","Dambuk Aga SC",25.18,90.72,10
+"East Khasi Hills","Shella Bholaganj Block","Sohlap SC",25.18,91.65,4
+"East Jaintia Hills","Khliehriat Block","Khaddum SC",25.18,92.48,9
+"South West Khasi Hills","Ranikor Block","Maheshkola SC",25.18545,90.974047,10
+"South Garo Hills","Rongara Block","Nekora SC",25.187917,90.971889,10
+"South Garo Hills","Rongara Block","Balpakram SC",25.188889,90.864472,10
+"South West Khasi Hills","Ranikor Block","Gillagora SC",25.19,91.03,10
+"South West Khasi Hills","Ranikor Block","Puksora SC",25.19,91.31,8
+"East Jaintia Hills","Khliehriat Block","Lama SC",25.19,92.25,9
+"South Garo Hills","Rongara Block","Mohadeo St. Dispy",25.191583,90.882667,10
+"South Garo Hills","Baghmara Block","Nilwagre SC",25.191889,90.57375,10
+"East Khasi Hills","Shella Bholaganj Block","Wahlong SC",25.2,91.72,4
+"West Jaintia Hills","Amlarem Block","Syndai SC",25.2,92.13,9
+"West Jaintia Hills","Amlarem Block","Tarangblang SC",25.2,92.19,9
+"East Jaintia Hills","Khliehriat Block","Ummat SC",25.2,92.26,9
+"South Garo Hills","Gasuapara Block","Jatrakona SC",25.202083,90.29375,7
+"South Garo Hills","Gasuapara Block","Gasuapara SC",25.202472,90.340583,7
+"South Garo Hills","Baghmara Block","Emangre SC",25.21,90.59,10
+"East Khasi Hills","Shella Bholaganj Block","Laityra SC",25.21,91.73,4
+"East Khasi Hills","Pynursla Block","Nongtyngur SC",25.21,91.93,4
+"West Jaintia Hills","Amlarem Block","Sohkha SC",25.21,92.05,9
+"West Jaintia Hills","Amlarem Block","Darrang SC",25.21,92.01,9
+"South West Khasi Hills","Ranikor Block","Khonjoy SC",25.21,91.06,10
+"South West Khasi Hills","Ranikor Block","Nonghyllam SC",25.21,91.16,8
+"East Jaintia Hills","Khliehriat Block","Chiehruphi SC",25.21,92.37,9
+"East Khasi Hills","Mawsynram Block","Sawsymper SC",25.22,91.55,4
+"East Khasi Hills","Shella Bholaganj Block","Mustoh SC",25.22,91.65,4
+"East Khasi Hills","Mawsynram Block","Nongtrai SC",25.22,91.6,4
+"West Jaintia Hills","Amlarem Block","Lamin SC",25.22,92.01,9
+"South Garo Hills","Gasuapara Block","Dimapara SC",25.229333,90.249083,7
+"East Khasi Hills","Mawsynram Block","Lawbah SC",25.23,91.58,4
+"East Jaintia Hills","Saipung Block","Muallian SC",25.23,92.49,9
+"East Jaintia Hills","Saipung Block","Ryngkoh SC",25.23,92,4
+"West Garo Hills","Dalu Block","Sesengpara SC",25.234,90.1236,11
+"South Garo Hills","Baghmara Block","Mindikgre SC",25.24,90.56,10
+"East Khasi Hills","Shella Bholaganj Block","Tyrna SC",25.24,91.74,4
+"East Khasi Hills","Mawsynram Block","Phlangwanbroi SC",25.24,91.49,4
+"South West Khasi Hills","Mawkyrwat Block","Phlangdiloin SC",25.24,91.16,8
+"South West Khasi Hills","Mawkyrwat Block","Umjarain SC",25.24,91.32,8
+"West Garo Hills","Dalu Block","Jijikapara SC",25.25,90.23,7
+"East Khasi Hills","Mawphlang Block","Mawngap SC",25.25,92.04,9
+"West Jaintia Hills","Amlarem Block","Nongbareh SC",25.25,92.02,9
+"South West Khasi Hills","Ranikor Block","Mawpud SC",25.25,91.21,8
+"West Jaintia Hills","Amlarem Block","Khonglah SC",25.252639,92.009556,9
+"South Garo Hills","Rongara Block","Rongru Asim SC",25.256556,90.694361,10
+"East Khasi Hills","Mawsynram Block","Tyngnger SC",25.26,91.6,4
+"South West Khasi Hills","Ranikor Block","Nongkulang SC",25.26,91.06,8
+"South Garo Hills","Gasuapara Block","Rugapara SC",25.263194,90.272611,7
+"West Garo Hills","Dalu Block","Halchati SC",25.2642,90.0692,11
+"East Khasi Hills","Shella Bholaganj Block","Rumnong SC",25.27,91.65,4
+"East Jaintia Hills","Saipung Block","Muaslei SC",25.27,92.74,9
+"South Garo Hills","Baghmara Block","Karukol SC",25.28,90.65,10
+"South Garo Hills","Chokpot Block","Mitapgre SC",25.28,90.42,7
+"East Khasi Hills","Laitkroh Block","Mawbeh SC",25.28,91.72,4
+"East Khasi Hills","Pynursla Block","Pyrnai SC",25.28,91.84,4
+"South Garo Hills","Baghmara Block","Nengkong SC",25.29,90.56,10
+"East Khasi Hills","Shella Bholaganj Block","Wahkaliar SC",25.29,91.67,4
+"East Khasi Hills","Shella Bholaganj Block","Upper Cherra SC",25.29,91.73,4
+"East Khasi Hills","Mawsynram Block","Thieddieng SC",25.29,91.55,4
+"South West Khasi Hills","Mawkyrwat Block","Photjaud SC",25.29,91.26,8
+"South West Khasi Hills","Mawkyrwat Block","Wahkaji SC",25.29,91.13,8
+"West Garo Hills","Dalu Block","Posenggagre SC",25.3,90.12,11
+"West Garo Hills","Dalu Block","Rimrangpara SC",25.3,90.26,7
+"East Jaintia Hills","Khliehriat Block","Iapmala SC",25.3,92.28,9
+"South Garo Hills","Baghmara Block","Rongsu Agal SC",25.31,90.79,10
+"East Khasi Hills","Laitkroh Block","Mawlyndiar SC",25.31,91.74,4
+"East Jaintia Hills","Saipung Block","Lelad SC",25.31,92.52,9
+"West Garo Hills","Dalu Block","Sandongdapgre SC",25.32,90.11,11
+"East Khasi Hills","Laitkroh Block","Kongthong SC",25.32,91.81,4
+"East Khasi Hills","Shella Bholaganj Block","Mawphu SC",25.32,91.65,4
+"East Khasi Hills","Mawsynram Block","Syntein SC",25.32,91.56,4
+"West Khasi Hills","Nongstoin Block","Mawkadiang SC",25.32,91.13,8
+"South West Khasi Hills","Mawkyrwat Block","Rangblang SC",25.32,91.17,8
+"South West Khasi Hills","Mawkyrwat Block","Umdohlun SC",25.32,91.17,8
+"South West Khasi Hills","Ranikor Block","Nongnah SC",25.32,91.26,8
+"East Jaintia Hills","Khliehriat Block","Byndihati SC",25.32,92.36,9
+"East Jaintia Hills","Saipung Block","Thuruk SC",25.32,92.7,9
+"South West Garo Hills","Zikzak Block","Gopinathkilla SC",25.3215,89.9411,11
+"West Khasi Hills","Mawthadraishan Block","Sohkrot SC",25.33,91.29,8
+"South Garo Hills","Chokpot Block","Kenegre SC",25.33,90.45,7
+"South Garo Hills","Chokpot Block","Asakgre SC",25.33,90.49,7
+"East Khasi Hills","Laitkroh Block","Mawkma SC",25.33,91.74,4
+"East Khasi Hills","Mawkynrew Block","Nohron SC",25.33,92.03,9
+"South West Garo Hills","Zikzak Block","Debajani SC",25.33,89.9,11
+"East Jaintia Hills","Khliehriat Block","Rngad SC",25.33,92.24,9
+"East Jaintia Hills","Saipung Block","Sakhain SC",25.33,92.41,9
+"East Jaintia Hills","Khliehriat Block","Kairang SC",25.34,92.33,9
+"East Jaintia Hills","Saipung Block","Moolamylliang SC",25.34,92.46,9
+"West Garo Hills","Dalu Block","Joshipara SC",25.35,89.93,11
+"West Garo Hills","Dalu Block","Chengapara SC",25.35,90.05,11
+"West Garo Hills","Dalu Block","Gonchudare SC",25.35,90.16,7
+"East Khasi Hills","Pynursla Block","Lyngkyrdem SC",25.35,91.88,4
+"East Khasi Hills","Mawkynrew Block","Mawlat SC",25.35,91.96,4
+"East Khasi Hills","Urban Block","Jaiaw UHC",25.35,91.52,4
+"East Jaintia Hills","Saipung Block","Shnong Rim SC",25.35,92.57,9
+"West Garo Hills","Dalu Block","Sangknigre SC",25.36,90.31,7
+"South Garo Hills","Chokpot Block","Rongsibogre SC",25.36,90.39,7
+"East Khasi Hills","Laitkroh Block","Wahkhen SC",25.36,91.84,4
+"South West Garo Hills","Zikzak Block","Gilajuri SC",25.36,89.83,11
+"East Jaintia Hills","Khliehriat Block","Moolamanoh SC",25.36,92.3,9
+"South Garo Hills","Chokpot Block","Ganchikalak SC",25.37,90.36,7
+"East Khasi Hills","Laitkroh Block","Mawrah SC",25.37,91.78,4
+"West Jaintia Hills","Amlarem Block","Mupyut SC",25.37,92.13,9
+"South West Garo Hills","Zikzak Block","Anangpara SC",25.37,90.12,11
+"South West Khasi Hills","Mawkyrwat Block","Nongsynrih SC",25.37,91.37,8
+"South West Khasi Hills","Mawkyrwat Block","Phlangkynshi SC",25.37,91.51,4
+"South West Garo Hills","Zikzak Block","Hulukona SC",25.37,89.92,11
+"East Jaintia Hills","Khliehriat Block","Dkhiah SC",25.37,92.35,9
+"West Jaintia Hills","Thadlaskein Block","Sanaro SC",25.38,92.22,9
+"West Garo Hills","Tura Urban Block","Sampalgre UHC",25.38,90.2,7
+"West Khasi Hills","Nongstoin Block","Porkhadoh SC",25.38,91.06,8
+"South West Khasi Hills","Mawkyrwat Block","Jakrem SC",25.38,91.48,4
+"East Jaintia Hills","Khliehriat Block","Ladrymbai SC",25.38,92.3,9
+"West Garo Hills","Gambegre Block","Chisakgre SC",25.39,90.19,7
+"East Khasi Hills","Mawkynrew Block","Mawlyngngot SC",25.39,91.92,4
+"West Jaintia Hills","Thadlaskein Block","Mustem SC",25.39,92.21,9
+"South West Khasi Hills","Mawkyrwat Block","Sngimawlein SC",25.39,91.42,8
+"East Jaintia Hills","Khliehriat Block","Iongkaluh SC",25.39,92.28,9
+"East Jaintia Hills","Saipung Block","Mulait SC",25.39,92.5,9
+"East Khasi Hills","Laitkroh Block","Lad Mawphlang SC",25.4,91.76,4
+"East Khasi Hills","Mawphlang Block","Tyrsad SC",25.4,91.62,4
+"East Jaintia Hills","Khliehriat Block","Jalyiah SC",25.4,92.31,9
+"East Jaintia Hills","Saipung Block","Pala SC",25.4,92.61,9
+"South West Khasi Hills","Mawkyrwat Block","Umjarain Mtd SC",25.4,91.51,4
+"West Garo Hills","Rongram Block","Boldorenggre SC",25.41,89.84,11
+"West Garo Hills","Gambegre Block","Gambegre SC",25.41,90.15,11
+"South Garo Hills","Baghmara Block","Rongsa Awe SC",25.41,90.73,10
+"East Khasi Hills","Laitkroh Block","Umdiengpoh SC",25.41,91.77,4
+"West Khasi Hills","Nongstoin Block","Mawlieh SC",25.41,91.09,8
+"West Khasi Hills","Mawshynrut Block","Mesei SC",25.41,90.57,10
+"East Jaintia Hills","Khliehriat Block","Mukhaialong SC",25.41,92.26,9
+"East Jaintia Hills","Saipung Block","Jalaphet SC",25.41,92.46,9
+"East Jaintia Hills","Saipung Block","Narwan SC",25.41,92.44,9
+"South West Garo Hills","Betasing Block","Rongchadenggre SC",25.41,90.05,11
+"Ri Bhoi","Umsning Block","Thadrang SC",25.41339,92.09192,9
+"West Garo Hills","Tikrikilla Block","Jangnapara SC",25.42,89.92,11
+"East Khasi Hills","Urban Block","Nongthymmai UHC",25.42,91.71,4
+"East Khasi Hills","Mawphlang Block","Thainthynroh SC",25.42,91.68,4
+"West Khasi Hills","Mawshynrut Block","Riangdim SC",25.42,90.81,10
+"West Jaintia Hills","Thadlaskein Block","Sohmynting SC",25.42,92.13,9
+"East Jaintia Hills","Khliehriat Block","Sohkynphor SC",25.42,92.41,9
+"East Jaintia Hills","Khliehriat Block","Tuber SC",25.42,92.29,9
+"East Jaintia Hills","Saipung Block","Semmasi SC",25.42,92.57,9
+"South West Khasi Hills","Mawkyrwat Block","Nongrynniang SC",25.42,91.25,8
+"West Jaintia Hills","Urban Block","Chutwakhu UHC",25.43,92.19,9
+"East Garo Hills","Samanda Block","Rongbinggre SC",25.43,90.6,10
+"East Khasi Hills","Laitkroh Block","Mawkdok SC",25.43,91.78,4
+"East Khasi Hills","Mawphlang Block","Lempluh SC",25.43,91.59,4
+"Ri Bhoi","Umsning Block","Umroi SC",25.43,91.58,4
+"South West Garo Hills","Zikzak Block","Kambakpara SC",25.43,89.91,11
+"South West Garo Hills","Betasing Block","Asinagre SC",25.43,90.06,11
+"West Garo Hills","Gambegre Block","Amindagre SC",25.44,90.16,11
+"East Garo Hills","Samanda Block","Mandalgre SC",25.44,90.36,7
+"West Khasi Hills","Nongstoin Block","Byrki SC",25.44,91.29,8
+"South West Garo Hills","Zikzak Block","Kuligaon SC",25.44,89.89,11
+"South West Garo Hills","Betasing Block","Daronggre SC",25.44,90.1,11
+"West Garo Hills","Gambegre Block","Doldegre SC",25.45,90.17,11
+"West Garo Hills","Gambegre Block","Bolchugre SC",25.45,90.14,11
+"West Jaintia Hills","Urban Block","Ladthalaboh UHC",25.45,92.19,9
+"East Khasi Hills","Laitkroh Block","Nongkynrih SC",25.45,91.86,4
+"West Khasi Hills","Nongstoin Block","Mawrynniaw SC",25.45,91.06,8
+"East Jaintia Hills","Saipung Block","Umkyrpong SC",25.45,92.56,9
+"South West Garo Hills","Betasing Block","Mellim SC",25.45,90.24,7
+"West Jaintia Hills","Thadlaskein Block","Mihmyntdu SC",25.46,92.23,9
+"South West Garo Hills","Betasing Block","Morchapani SC",25.46,89.96,11
+"West Khasi Hills","Nongstoin Block","Sangriang SC",25.47,91.26,8
+"East Khasi Hills","Mylliem Block","Umlympung SC",25.47,91.8,4
+"East Khasi Hills","Mawphlang Block","Lait Nongkseh SC",25.47,91.69,4
+"East Khasi Hills","Mawkynrew Block","Pingwait SC",25.47,92.02,3
+"West Khasi Hills","Nongstoin Block","Miangshang SC",25.47,91.12,8
+"West Khasi Hills","Mawthadraishan Block","Lawbyrtun SC",25.47,91.35,8
+"Ri Bhoi","Umsning Block","Jamanar SC",25.47,91.55,4
+"West Jaintia Hills","Thadlaskein Block","Mynkrem SC",25.47,92.44,9
+"West Jaintia Hills","Laskein Block","Khliehrangnah SC",25.47,92.5,9
+"West Jaintia Hills","Laskein Block","Mynska SC",25.47,92.43,9
+"West Jaintia Hills","Laskein Block","Phramer SC",25.47,92.3,9
+"South West Garo Hills","Betasing Block","Damalgre SC",25.47,90.08,11
+"East Khasi Hills","Mawkynrew Block","Thangsning SC",25.48,91.92,3
+"West Jaintia Hills","Laskein Block","Nongryngkoh SC",25.48,92.51,9
+"South West Garo Hills","Betasing Block","Jongchetpara SC",25.48,90.01,11
+"East Khasi Hills","Mawphlang Block","Wahlang SC",25.49,91.58,4
+"East Khasi Hills","Mawphlang Block","Lad Mawreng SC",25.49,91.78,4
+"East Khasi Hills","Mawkynrew Block","Kharang SC",25.49,92.04,3
+"West Khasi Hills","Nongstoin Block","Nongkynjang SC",25.49,91.34,8
+"South West Garo Hills","Betasing Block","Godalgre SC",25.49,90.03,11
+"East Garo Hills","Samanda Block","Tombolgre SC",25.4979,90.6186,10
+"West Garo Hills","Tura Urban Block","Matchakolgre UHC",25.5,90.19,2
+"East Garo Hills","Songsak Block","Nengkra SC",25.5,90.71,10
+"East Khasi Hills","Mylliem Block","Mawpynthih SC",25.5,91.35,8
+"East Khasi Hills","Mawkynrew Block","Thynroit SC",25.5,91.98,3
+"West Khasi Hills","Mawthadraishan Block","Laitkseh SC",25.5,91.44,8
+"West Khasi Hills","Mawthadraishan Block","Marngor SC",25.5,91.43,8
+"West Khasi Hills","Mawthadraishan Block","Sarong SC",25.5,91.57,4
+"West Jaintia Hills","Thadlaskein Block","Moodymmai SC",25.5,92.1,9
+"West Jaintia Hills","Laskein Block","Motyrshiah SC",25.5,92.45,9
+"West Jaintia Hills","Laskein Block","Raliang SC",25.5,92.4,9
+"West Jaintia Hills","Laskein Block","Pammanik SC",25.5,92.33,9
+"East Jaintia Hills","Khliehriat Block","Cham cham SC",25.5,92.23,9
+"West Jaintia Hills","Thadlaskein Block","Mukhla SC",25.5,92.17,9
+"South West Garo Hills","Betasing Block","Kumligaon SC",25.5,89.91,11
+"West Garo Hills","Rongram Block","Chidekgre SC",25.51,89.97,11
+"West Garo Hills","Gambegre Block","Dakopgre SC",25.51,90.18,2
+"East Khasi Hills","Mylliem Block","Umthlong SC",25.51,91.84,3
+"East Khasi Hills","Mawkynrew Block","Mawpyrshong SC",25.51,91.97,3
+"East Garo Hills","Samanda Block","Bolkinggre SC",25.5156,90.5758,10
+"East Garo Hills","Songsak Block","Dawagre SC",25.52,90.64,10
+"West Khasi Hills","Urban Block","Nongstoin UHC",25.52,91.26,8
+"East Khasi Hills","Mylliem Block","Liewlong SC",25.52,91.86,3
+"East Khasi Hills","Mawryngkneng Block","Nongkrem SC",25.52,91.89,3
+"East Khasi Hills","Mawphlang Block","Lyngkhoi SC",25.52,91.66,4
+"East Khasi Hills","Mawphlang Block","Weilyngkut SC",25.52,91.73,4
+"South West Garo Hills","Betasing Block","Watregre SC",25.52,89.92,11
+"East Garo Hills","Samanda Block","Dolwari SC",25.53,90.52,7
+"West Jaintia Hills","Thadlaskein Block","Wahiajer SC",25.53,92.16,9
+"West Jaintia Hills","Laskein Block","Kyndongtuber SC",25.53,92.3,9
+"South West Garo Hills","Betasing Block","Okkapara SC",25.53,90.11,2
+"West Garo Hills","Selsella Block","Rongkhongre SC",25.54,90.21,2
+"West Garo Hills","Gambegre Block","Edenbari SC",25.54,90.2,2
+"East Khasi Hills","Urban Block","Upper Mawprem UHC",25.54,91.74,4
+"East Khasi Hills","Urban Block","Lower Mawprem UHC",25.54,91.74,4
+"East Khasi Hills","Mawryngkneng Block","Mawlyngad SC",25.54,91.96,3
+"West Khasi Hills","Mairang Block","Manai SC",25.54,91.67,4
+"West Khasi Hills","Mairang Block","Langtor SC",25.54,91.59,4
+"Ri Bhoi","Umsning Block","Mawlyndep SC",25.54,92,3
+"West Jaintia Hills","Laskein Block","Saphai SC",25.54,92.61,9
+"South West Garo Hills","Betasing Block","Rangsa Abagre SC",25.54,90.02,2
+"East Garo Hills","Samanda Block","Gitokgre SC",25.5496,90.5308,1
+"East Khasi Hills","Urban Block","Lawsohtun SC",25.55,91.85,3
+"East Khasi Hills","Urban Block","Lumparing UHC",25.55,91.88,3
+"East Khasi Hills","Mawryngkneng Block","Sohryngkham SC",25.55,91.98,3
+"East Khasi Hills","Mawryngkneng Block","Umphyrnai SC",25.55,91.94,3
+"West Khasi Hills","Mairang Block","Kynsew SC",25.55,91.67,4
+"West Jaintia Hills","Thadlaskein Block","Tyrshang SC",25.55,92.14,9
+"West Jaintia Hills","Thadlaskein Block","Mupliang SC",25.55,92.22,9
+"South West Garo Hills","Betasing Block","Garodoba SC",25.55,90,2
+"South West Garo Hills","Betasing Block","Joyfar SC",25.55,89.92,11
+"South West Garo Hills","Betasing Block","Mukdangra SC",25.55,90.07,2
+"West Garo Hills","Rongram Block","Rombagre SC",25.56,90.34,7
+"East Khasi Hills","Urban Block","Bishnupur UHC",25.56,91.87,3
+"East Khasi Hills","Urban Block","Madanrting UHC",25.56,91.91,3
+"East Khasi Hills","Urban Block","Dongkharmalki UHC",25.56,91.88,3
+"West Jaintia Hills","Thadlaskein Block","Nongjngi SC",25.56,92.26,9
+"West Jaintia Hills","Laskein Block","Mokaiaw SC",25.56,92.46,9
+"South West Garo Hills","Betasing Block","Dalupara SC",25.56,90.06,2
+"South West Garo Hills","Betasing Block","Harigaon SC",25.56,90.05,2
+"West Khasi Hills","Mawthadraishan Block","Nongjlak SC",25.57,91.45,8
+"East Khasi Hills","Urban Block","Umsohsun UHC",25.57,91.87,3
+"East Khasi Hills","Urban Block","Demseiniong UHC",25.57,91.9,3
+"East Khasi Hills","Mylliem Block","Lawmei SC",25.57,91.79,3
+"East Khasi Hills","Mawphlang Block","Krang SC",25.57,91.74,4
+"West Jaintia Hills","Laskein Block","Mooshrot SC",25.57,92.51,9
+"South West Garo Hills","Betasing Block","Andarkhona SC",25.57,90.07,2
+"West Khasi Hills","Nongstoin Block","Mawlangniang SC",25.58,91.25,8
+"East Khasi Hills","Urban Block","Pynthorbah UHC",25.58,91.89,3
+"West Khasi Hills","Mairang Block","Laitdom SC",25.58,91.61,4
+"West Khasi Hills","Mairang Block","Mawshut SC",25.58,91.61,4
+"West Khasi Hills","Mairang Block","Nongliput SC",25.58,91.69,4
+"West Khasi Hills","Mawshynrut Block","Nongdaju SC",25.58,90.99,6
+"South West Khasi Hills","Mawkyrwat Block","Mawsaw SC",25.58,91.25,8
+"South West Garo Hills","Betasing Block","Gandhipara SC",25.58358333,89.99438889,2
+"Ri Bhoi","Umsning Block","Umlaper SC",25.59,92.08,3
+"East Khasi Hills","Urban Block","Nongmynsong SC",25.59,91.88,3
+"East Khasi Hills","Urban Block","Mawlai Nongkwar UHC",25.59,91.87,3
+"East Khasi Hills","Urban Block","Mawpat UHC",25.59,91.92,3
+"East Garo Hills","Dambo Rongjeng Block","Nongchram SC",25.59,90.79,6
+"West Khasi Hills","Mawshynrut Block","Umshynrut SC",25.59,91.14,8
+"West Jaintia Hills","Thadlaskein Block","Thadbamon SC",25.59,92.34,9
+"West Jaintia Hills","Laskein Block","Shilliangmyntang SC",25.59,92.38,9
+"West Jaintia Hills","Laskein Block","Thangrain SC",25.59,92.42,9
+"West Jaintia Hills","Laskein Block","Psiar SC",25.590898,92.533369,9
+"West Garo Hills","Tikrikilla Block","Pedaldoba SC",25.5923,90.9569,6
+"East Garo Hills","Samanda Block","Sampalgre SC",25.5957,90.3967,1
+"East Garo Hills","Dambo Rongjeng Block","Rongdu Damit SC",25.6,90.83,6
+"East Garo Hills","Samanda Block","Chiading SC",25.6,90.46,1
+"East Garo Hills","Songsak Block","Norek SC",25.6,90.61,1
+"East Khasi Hills","Mylliem Block","Kynroh SC",25.6,91.76,3
+"East Khasi Hills","Mawryngkneng Block","Tynring SC",25.6,92.02,3
+"West Khasi Hills","Mairang Block","Pyndendombah SC",25.6,91.67,4
+"North Garo Hills","Resubelpara Block","Chengalma SC",25.6,90.43,1
+"West Garo Hills","Rongram Block","Waribokgre SC",25.61,90.29,2
+"East Garo Hills","Songsak Block","Jamge SC",25.61,90.72,6
+"East Khasi Hills","Mylliem Block","Mawtawar SC",25.61,91.9,3
+"East Khasi Hills","Mawryngkneng Block","Mawpdang SC",25.61,92.04,3
+"West Jaintia Hills","Thadlaskein Block","Nongkhroh SC",25.61,92.12,3
+"West Jaintia Hills","Thadlaskein Block","Mynsngad SC",25.61,92.24,9
+"West Jaintia Hills","Thadlaskein Block","Nonglatem SC",25.61,92.17,9
+"West Khasi Hills","Mawthadraishan Block","Mawlangsu SC",25.62,91.39,8
+"West Jaintia Hills","Laskein Block","Mukroh SC",25.62,92.49,9
+"West Garo Hills","Rongram Block","Waram Songma SC",25.62,90.23,2
+"East Garo Hills","Dambo Rongjeng Block","Darugre SC",25.63,90.77,6
+"East Garo Hills","Dambo Rongjeng Block","Naringgre SC",25.63,90.76,6
+"East Garo Hills","Songsak Block","Asil SC",25.63,90.5,1
+"West Jaintia Hills","Thadlaskein Block","Bamkamar SC",25.63,92.13,3
+"North Garo Hills","Resubelpara Block","Akarok SC",25.63,90.47,1
+"West Garo Hills","Rongram Block","Baljek SC",25.64,90.3,2
+"West Garo Hills","Dadenggiri Block","Mangalpara SC",25.64,90.07,2
+"West Garo Hills","Dadenggiri Block","Bolongre SC",25.64,89.97,2
+"West Khasi Hills","Mawshynrut Block","Seinduli SC",25.64,91.14,8
+"West Garo Hills","Rongram Block","Boldakgre SC",25.65,89.96,2
+"West Garo Hills","Selsella Block","Damjonggre SC",25.65,90.03,2
+"West Khasi Hills","Mairang Block","Mawnai SC",25.65,91.7,3
+"West Khasi Hills","Mawshynrut Block","Mawsyrpat SC",25.65,91.14,8
+"West Jaintia Hills","Thadlaskein Block","Moobakhon SC",25.65,92.29,9
+"West Jaintia Hills","Thadlaskein Block","Rakabah SC",25.65,92.23,9
+"West Garo Hills","Selsella Block","Rochonpara SC",25.66,89.95,2
+"East Garo Hills","Songsak Block","Barikgre SC",25.66,90.51,1
+"West Khasi Hills","Mawshynrut Block","Mawthengkut SC",25.66,91.07,6
+"Ri Bhoi","Umsning Block","Mawbsein SC",25.66,92.06,3
+"East Garo Hills","Dambo Rongjeng Block","Dambo Mrok SC",25.66480556,90.82444444,6
+"West Garo Hills","Rongram Block","Babadam SC",25.67,90.06,2
+"West Garo Hills","Selsella Block","Dabakgre SC",25.67,90.08,2
+"West Garo Hills","Selsella Block","Rangrigre SC",25.67,90,2
+"East Garo Hills","Dambo Rongjeng Block","Pakkregre SC",25.67,90.72,6
+"West Khasi Hills","Mairang Block","Mawsnar SC",25.67,91.71,3
+"West Khasi Hills","Mawshynrut Block","Tynhiang SC",25.67,91.14,8
+"West Jaintia Hills","Thadlaskein Block","Sohphoh SC",25.67,92.16,3
+"West Garo Hills","Dadenggiri Block","Rongchu St. Dispy",25.68,90.14,2
+"West Garo Hills","Selsella Block","Wajadagre SC",25.68,90.06,2
+"West Garo Hills","Selsella Block","Ujenggre SC",25.68,89.99,2
+"East Garo Hills","Songsak Block","Samin Indikim SC",25.68,90.65,1
+"East Garo Hills","Songsak Block","Cheran Songma SC",25.68,90.7,6
+"Ri Bhoi","Umsning Block","Umsawlum SC",25.68,91.88,3
+"West Garo Hills","Rongram Block","Marakgre SC",25.683074,90.424041,1
+"East Garo Hills","Dambo Rongjeng Block","Dambo Rongdeng SC",25.6895,90.8367,6
+"East Garo Hills","Dambo Rongjeng Block","Rongchek A.kong SC",25.69,90.77,6
+"West Khasi Hills","Nongstoin Block","Mawdoh SC",25.69,91.41,8
+"West Khasi Hills","Mairang Block","Umpdem SC",25.69,91.76,3
+"West Khasi Hills","Mawshynrut Block","Nongjri SC",25.69,90.99,6
+"West Garo Hills","Dadenggiri Block","Romgre SC",25.7,90.11,2
+"West Garo Hills","Rongram Block","Anogre SC",25.71,90.35,1
+"West Garo Hills","Selsella Block","Belbari SC",25.71,90.01,2
+"East Garo Hills","Dambo Rongjeng Block","Rongmil SC",25.71,90.81,6
+"West Khasi Hills","Mairang Block","Mawkarah SC",25.71,91.56,4
+"West Khasi Hills","Mawshynrut Block","Langja SC",25.71,91.17,8
+"West Khasi Hills","Mawshynrut Block","Kyrdum SC",25.71,91.21,8
+"West Jaintia Hills","Thadlaskein Block","Saitsama SC",25.71,92.36,9
+"West Khasi Hills","Nongstoin Block","Mawdumdum SC",25.72,91.32,8
+"West Garo Hills","Selsella Block","Zikabari SC",25.72,90.03,2
+"West Garo Hills","Dadenggiri Block","Damal Asim SC",25.72,90.31,1
+"East Garo Hills","Dambo Rongjeng Block","Nongbak A.pal SC",25.72,90.94,6
+"West Jaintia Hills","Thadlaskein Block","Khanduli SC",25.72,92.39,9
+"West Khasi Hills","Nongstoin Block","Umiap SC",25.73,91.39,8
+"Ri Bhoi","Umsning Block","Kyrdemkulai SC",25.73,91.84,3
+"Ri Bhoi","Umsning Block","Pynthorbhoilasa SC",25.73,92,3
+"North Garo Hills","Resubelpara Block","Snalgre SC",25.73,90.41,1
+"West Garo Hills","Selsella Block","Bhajamara SC",25.74,90.02,2
+"West Garo Hills","Selsella Block","Hallidayganj SC",25.74,89.9,2
+"East Garo Hills","Dambo Rongjeng Block","Nengkram SC",25.74,90.96,6
+"East Garo Hills","Songsak Block","Koksi Nengsat SC",25.74,90.67,6
+"West Khasi Hills","Mawshynrut Block","Umsohpieng SC",25.74,91.11,6
+"West Garo Hills","Selsella Block","Marok SC",25.74,90.028,2
+"West Garo Hills","Rongram Block","Tosekgre SC",25.75,90.35,1
+"West Garo Hills","Tikrikilla Block","Rangsagre SC",25.75,90.05,2
+"West Garo Hills","Selsella Block","Mangchim SC",25.75,90.06,2
+"West Garo Hills","Rongram Block","Manggakgre SC",25.76,90.36,1
+"West Garo Hills","Selsella Block","Rajabala SC",25.76,89.99,2
+"West Khasi Hills","Mawshynrut Block","Tynghor SC",25.76,91.15,6
+"Ri Bhoi","Umsning Block","Raitong SC",25.76,91.97,3
+"Ri Bhoi","Umsning Block","Iapngar SC",25.76,92.1,3
+"North Garo Hills","Kharkutta Block","Dokongsi SC",25.76,90.92,6
+"North Garo Hills","Resubelpara Block","Doba A.pal SC",25.76,90.52,1
+"West Garo Hills","Selsella Block","Batabari SC",25.77,90,2
+"East Garo Hills","Songsak Block","Simseng Bongga SC",25.77,90.74,6
+"West Khasi Hills","Mairang Block","Jakhong SC",25.77,91.57,3
+"Ri Bhoi","Umsning Block","Tyrso SC",25.77,92.11,3
+"South West Garo Hills","Zikzak Block","Tarapara SC",25.77,90,2
+"North Garo Hills","Resubelpara Block","Gokulgre SC",25.78,90.41,1
+"Ri Bhoi","Umsning Block","Kynjoin umran SC",25.78,91.99,3
+"North Garo Hills","Resubelpara Block","Kimdegre SC",25.78,90.39,1
+"North Garo Hills","Resubelpara Block","Korepara SC",25.78,90.4,1
+"West Garo Hills","Selsella Block","Thakimagre SC",25.79,90.05,5
+"East Garo Hills","Dambo Rongjeng Block","Chibok Apal SC",25.79,90.81,6
+"North Garo Hills","Resubelpara Block","A. Kemgre SC",25.79,90.49,1
+"West Khasi Hills","Nongstoin Block","Kyrshai SC",25.8,91.32,8
+"North Garo Hills","Resubelpara Block","Thapa Bisrampur SC",25.8,90.57,1
+"North Garo Hills","Resubelpara Block","Dingrepa SC",25.8,90.49,1
+"North Garo Hills","Resubelpara Block","Raja A.pal SC",25.8,90.55,1
+"North Garo Hills","Resubelpara Block","Sepikol SC",25.8,90.59,1
+"West Garo Hills","Tikrikilla Block","Rongbokgre SC",25.81,90.32,1
+"West Garo Hills","Selsella Block","Chanangpara SC",25.81,90.09,5
+"North Garo Hills","Kharkutta Block","Tingbagttim SC",25.81,90.99,6
+"West Garo Hills","Dadenggiri Block","Bikonggre SC",25.82,90.08,5
+"North Garo Hills","Resubelpara Block","Aruakgre SC",25.82,90.4,1
+"North Garo Hills","Resubelpara Block","Elaitchi Apal SC",25.8217,90.5422,1
+"Ri Bhoi","Umsning Block","Mawrong SC",25.83,91.97,3
+"West Garo Hills","Selsella Block","Cheran Songma SC",25.83,90.11,5
+"North Garo Hills","Kharkutta Block","Lower Chima Impel SC",25.84,90.81,6
+"North Garo Hills","Kharkutta Block","Lower Sambrak SC",25.84,90.81,6
+"North Garo Hills","Resubelpara Block","Kongkarpara SC",25.84,90.42,1
+"North Garo Hills","Resubelpara Block","Thapa Darenchi SC",25.84,90.62,1
+"North Garo Hills","Kharkutta Block","Waramja SC",25.846,90.922,6
+"East Garo Hills","Dambo Rongjeng Block","Jambal SC",25.85,90.88,6
+"North Garo Hills","Resubelpara Block","Darampara SC",25.85,90.59,1
+"North Garo Hills","Resubelpara Block","Digisinggre SC",25.85,90.41,1
+"West Khasi Hills","Mawshynrut Block","Malangkona SC",25.85615,91.095889,6
+"West Garo Hills","Tikrikilla Block","Raksamgre St. Dispy",25.86,90.37,1
+"West Garo Hills","Selsella Block","Chibinang SC",25.86,90.07,5
+"Ri Bhoi","Umsning Block","Sonidan SC",25.86,92.16,3
+"North Garo Hills","Resubelpara Block","Jamgoan Sorokpara SC",25.86,90.62,1
+"North Garo Hills","Resubelpara Block","Narongkol SC",25.86,90.79,6
+"North Garo Hills","Resubelpara Block","Rongkaminchi SC",25.86,90.65,1
+"West Garo Hills","Gambegre Block","Sakaboldamgre St. Dispy",25.87,90.26,5
+"North Garo Hills","Kharkutta Block","Chotcholja SC",25.87,90.89,6
+"North Garo Hills","Resubelpara Block","Gambil A.pal SC",25.87,90.73,6
+"North Garo Hills","Resubelpara Block","Tekragre SC",25.87,90.42,1
+"West Garo Hills","Selsella Block","Maulakandi SC",25.88,90.06,5
+"Ri Bhoi","Jirang Block","Umsong SC",25.88,91.74,3
+"North Garo Hills","Kharkutta Block","Badakka SC",25.88,90.96,6
+"North Garo Hills","Resubelpara Block","Boda  Apal SC",25.88,90.54,1
+"North Garo Hills","Resubelpara Block","Bongare Olbaknang SC",25.88,90.7,6
+"West Garo Hills","Selsella Block","Bamundanga SC",25.89,90.09,5
+"Ri Bhoi","Umsning Block","Mawlei??",25.89,91.67,3
+"North Garo Hills","Kharkutta Block","Chibongga SC",25.89,90.85,6
+"North Garo Hills","Kharkutta Block","Chilpara SC",25.89,90.79,6
+"North Garo Hills","Resubelpara Block","Achotchonggre SC",25.89,90.43,1
+"North Garo Hills","Resubelpara Block","Mongpanggro SC",25.89,90.69,6
+"North Garo Hills","Resubelpara Block","Samkalakgre SC",25.89,90.4,1
+"Ri Bhoi","Umsning Block","Mawtari Myrdon SC",25.9,92.07,3
+"North Garo Hills","Kharkutta Block","Rajasimla SC",25.9,90.33,1
+"West Garo Hills","Tikrikilla Block","Nidanpur SC",25.91,90.09,5
+"Ri Bhoi","Umling Block","Umsawnongbri SC",25.91,92.01,3
+"North Garo Hills","Resubelpara Block","Gosingpita SC",25.91347222,90.48663889,1
+"Ri Bhoi","Umling Block","Pahambir SC",25.91724167,91.94,3
+"North Garo Hills","Resubelpara Block","Denggnagggre SC",25.92,90.42,1
+"North Garo Hills","Resubelpara Block","Manikgang SC",25.92,90.66,1
+"North Garo Hills","Kharkutta Block","Baksalpara SC",25.93,90.84,6
+"West Garo Hills","Tikrikilla Block","Hollaidanga SC",25.94,90.15,5
+"Ri Bhoi","Umling Block","Umshaken SC",25.94,92.06,3
+"North Garo Hills","Resubelpara Block","Bolsong SC",25.94,90.46,1
+"North Garo Hills","Resubelpara Block","Damas SC",25.94,90.73,6
+"North Garo Hills","Resubelpara Block","Damit Danggra SC",25.94,90.74,6
+"North Garo Hills","Resubelpara Block","Sildubi SC",25.94,90.42,1
+"North Garo Hills","Resubelpara Block","Khaldang SC",25.94744444,90.60575,1
+"North Garo Hills","Resubelpara Block","Kakragre SC",25.95,90.43,1
+"West Garo Hills","Tikrikilla Block","Naguapara SC",25.96,90.33,5
+"West Garo Hills","Tura Urban Block","Dobasipara UHC",25.96,90.23,5
+"Ri Bhoi","Umling Block","Umling SC",25.96,91.85,3
+"West Garo Hills","Tikrikilla Block","Belguri SC",25.97,90.35,1
+"West Garo Hills","Tikrikilla Block","Hatagaon SC",25.97,90.395,1
+"North Garo Hills","Resubelpara Block","Sarapara SC",25.99,90.44,1
+"North Garo Hills","Resubelpara Block","Thakurvilla SC",25.99,90.47,1
+"Ri Bhoi","Umling Block","Narang SC",26,91.85,3
+"Ri Bhoi","Umling Block","Umsawnongkharai SC",26,92.1,3
+"Ri Bhoi","Umling Block","Marmain SC",26,92.01,3
+"Ri Bhoi","Umling Block","Amjong SC",26.02,92.2,3
+"Ri Bhoi","Umling Block","Pillangkata SC",26.08,91.8,3
+"Ri Bhoi","Umling Block","Baridua SC",26.1,91.82,3

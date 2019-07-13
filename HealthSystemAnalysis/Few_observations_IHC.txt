@@ -1,0 +1,10 @@
+Area of each state
+Investment in health infrastructure - statewise
+population - each state
+
+
+Since the data has been taken from death and birth registration and death rate has been calculated based on that. Lower death and birth rate has been registered in the north-east and eastern part of india.
+
+Delhi has a record high death rate suggesting high death registration.
+
+
