@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543254585042.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "297967563",
+    "id" : "BE08528F",
+    "lastKnownWriteTime" : 1543255675,
+    "last_content_update" : 1543255675125,
+    "path" : "~/InteractiveMap/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "47,0",
+        "scrollLine" : "32"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
